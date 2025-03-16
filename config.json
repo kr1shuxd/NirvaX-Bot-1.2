@@ -16,9 +16,9 @@
     "invite" : "https://discord.com/api/oauth2/authorize?client_id=1122883732303511583&permissions=8&scope=applications.commands%20bot",
     "nodes" : [{
        "name" : "LavaLink",
-        "host" : "192.168.1.250",
-        "port" : 25568,
-        "password" : "gearjindabad",
+        "host" : "node-v4.beban.tech",
+        "port" : 80,
+        "password" : "dsc.gg/bebancommunity",
         "secure" : false
     }]
 }
